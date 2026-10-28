@@ -2,7 +2,7 @@
  "post": "instagram-spdp-cuatro-resoluciones",
  "red": "Instagram",
  "bufferChannelId": "6acfe2fd778b240e2f0d80a2",
- "estado": "listo",
+ "estado": "publicado",
  "modo": "shareNow",
  "pilar": "Seguridad",
  "esqueleto": "Lista de valor",
@@ -28,5 +28,8 @@
   "Plazos ante una brecha de seguridad. Resolución SPDP-SPD-2026-0040-R: 2 días de plazo máximo del encargado al responsable y 5 días de término para notificar a la SPDP.",
   "En Littigo, usted decide qué procesa la IA. Captura de la lista de documentos de un caso con un interruptor por documento; el segundo documento aparece excluido de la IA.",
   "Su firma, ordenada. Sus datos, bajo su control. Link en bio. littigo.com, contacto@littigo.com, WhatsApp +593 98 714 9410."
- ]
+ ],
+ "fechaPublicacion": "2026-10-28",
+ "bufferPostId": "6ae1fc7dc5d58d361391806b",
+ "sentAt": "2026-10-28T13:46:16Z"
 }

@@ -31,5 +31,20 @@
  ],
  "fechaPublicacion": "2026-10-28",
  "bufferPostId": "6ae1fc7dc5d58d361391806b",
- "sentAt": "2026-10-28T13:46:16Z"
+ "sentAt": "2026-10-28T13:46:16Z",
+ "embudo": "MOFU",
+ "formato": "carrusel",
+ "origen": "organico",
+ "duracion_s": null,
+ "hook": null,
+ "formulaHook": "AUT norma (cercano a M30)",
+ "cuerpo": "MC05",
+ "cierre": "MF03",
+ "hipotesis": null,
+ "variante": null,
+ "metrica_principal": "guardados",
+ "anuncioMetaId": null,
+ "mensajePrellenado": null,
+ "idsRetroactivos": true,
+ "notaIds": "Asignación retroactiva: el hook («4 resoluciones de la SPDP para su estudio») es de la fórmula AUT norma, cercana a M30. El cuerpo sigue MC05 (lista con contador) y el cierre principal es MF03 (guardar). El copy además pide la demostración por el enlace de la biografía (BF09): dos CTA en una pieza."
 }

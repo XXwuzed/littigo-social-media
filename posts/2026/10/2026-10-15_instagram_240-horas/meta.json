@@ -1,3 +1,32 @@
-{"post":"instagram-240-horas","red":"Instagram","bufferChannelId":"6acfe2fd778b240e2f0d80a2","estado":"publicado","fechaPublicacion":"2026-10-15","modo":"shareNow","bufferPostId":null,
-"fuente":"Thomson Reuters, Future of Professionals Report 2025 (proyeccion; verificado solo via Lawyers Weekly, 23 jul 2025)",
-"alt":["240 horas al año. Es el tiempo que los profesionales proyectan ahorrar con IA. Tres círculos superpuestos sobre fondo de acuarela azul.","Son 30 jornadas completas. Treinta círculos verdes azulados, uno por cada jornada de 8 horas.","Ese tiempo está en lo manual. Cuatro tareas con ícono: registrar el tiempo, agendar audiencias, crear clientes y casos, preparar el cobro.","En Littigo, la IA lo ejecuta. Usted lo pide en una frase; Littigo prepara y el abogado decide. Tres círculos superpuestos.","Su firma, ordenada. Sus cobros, a la vista. Link en bio. littigo.com, contacto@littigo.com, WhatsApp +593 98 714 9410."]}
+{
+ "post": "instagram-240-horas",
+ "red": "Instagram",
+ "bufferChannelId": "6acfe2fd778b240e2f0d80a2",
+ "estado": "publicado",
+ "fechaPublicacion": "2026-10-15",
+ "modo": "shareNow",
+ "bufferPostId": "6ad0ff4500e152e7cd1c64c9",
+ "fuente": "Thomson Reuters, Future of Professionals Report 2025 (proyeccion; verificado solo via Lawyers Weekly, 23 jul 2025)",
+ "alt": [
+  "240 horas al año. Es el tiempo que los profesionales proyectan ahorrar con IA. Tres círculos superpuestos sobre fondo de acuarela azul.",
+  "Son 30 jornadas completas. Treinta círculos verdes azulados, uno por cada jornada de 8 horas.",
+  "Ese tiempo está en lo manual. Cuatro tareas con ícono: registrar el tiempo, agendar audiencias, crear clientes y casos, preparar el cobro.",
+  "En Littigo, la IA lo ejecuta. Usted lo pide en una frase; Littigo prepara y el abogado decide. Tres círculos superpuestos.",
+  "Su firma, ordenada. Sus cobros, a la vista. Link en bio. littigo.com, contacto@littigo.com, WhatsApp +593 98 714 9410."
+ ],
+ "embudo": "MOFU",
+ "formato": "carrusel",
+ "origen": "organico",
+ "duracion_s": null,
+ "hook": null,
+ "formulaHook": "AUT dato con fuente",
+ "cuerpo": "MC12",
+ "cierre": "MF01",
+ "hipotesis": null,
+ "variante": null,
+ "metrica_principal": "envios",
+ "anuncioMetaId": null,
+ "mensajePrellenado": null,
+ "idsRetroactivos": true,
+ "notaIds": "Asignación retroactiva: la pieza es anterior al banco. El hook (cifra con fuente) no coincide con un ID; el cuerpo sigue MC12 (costo que corre) y el cierre principal es MF01 (envío a un colega). El copy además pide la demostración por el enlace de la biografía (BF09): dos CTA en una pieza."
+}

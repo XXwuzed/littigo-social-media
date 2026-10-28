@@ -1,1 +1,24 @@
-{"post":"tres-pilares","tipo":"prueba (fuera del cronopost)","canal":"LinkedIn","bufferChannelId":"6acfe216778b240e2f0d75ab","fechaPropuesta":"2026-10-15T11:00:00-05:00","estado":"programado","bufferPostId":null}
+{
+ "post": "tres-pilares",
+ "tipo": "prueba (fuera del cronopost)",
+ "canal": "LinkedIn",
+ "bufferChannelId": "6acfe216778b240e2f0d75ab",
+ "fechaPropuesta": "2026-10-15T11:00:00-05:00",
+ "estado": "programado",
+ "bufferPostId": null,
+ "embudo": "TOFU",
+ "formato": "carrusel",
+ "origen": "organico",
+ "duracion_s": null,
+ "hook": null,
+ "formulaHook": "Presentación de marca (slogan)",
+ "cuerpo": null,
+ "cierre": "BF03",
+ "hipotesis": null,
+ "variante": null,
+ "metrica_principal": null,
+ "anuncioMetaId": null,
+ "mensajePrellenado": null,
+ "idsRetroactivos": true,
+ "notaIds": "Asignación retroactiva: post de prueba de presentación de marca en LinkedIn, fuera del banco MOFU/BOFU. Solo el cierre coincide con un ID (BF03, agende su demostración)."
+}

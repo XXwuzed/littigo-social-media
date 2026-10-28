@@ -1,0 +1,32 @@
+{
+ "post": "instagram-spdp-cuatro-resoluciones",
+ "red": "Instagram",
+ "bufferChannelId": "6acfe2fd778b240e2f0d80a2",
+ "estado": "listo",
+ "modo": "shareNow",
+ "pilar": "Seguridad",
+ "esqueleto": "Lista de valor",
+ "objetivo": "Guardados",
+ "cronopost": "Mié 28 oct, Reach, Seguridad, Socios, Carrusel",
+ "fuentes": [
+  "Res. SPDP-SPD-2026-0004-R, firmada 28 ene 2026, Registro Oficial Tercer Suplemento n.º 225, 13 feb 2026 (Lexis Noticias; NMS Law)",
+  "Res. SPDP-SPD-2026-0009-R, firmada 12 feb 2026, Registro Oficial n.º 240, 10 mar 2026 (texto en FielWeb; fecha de RO según NMS Law, una sola fuente)",
+  "Res. SPDP-SPD-2026-0037-R, reforma a la 0009-R (NMS Law, 14 sep 2026); fecha de Registro Oficial no verificada",
+  "Res. SPDP-SPD-2026-0040-R, notificación de vulneraciones (NMS Law, 14 sep 2026); fecha de Registro Oficial no verificada; plazo 2 días encargado a responsable, término de 5 días del responsable a la SPDP, vía SISPDP"
+ ],
+ "pendientes": [
+  "Confirmar con Pedro/José que los datos de la captura son de ejemplo",
+  "Confirmar en texto oficial si 'término de 5 días' son días hábiles",
+  "Verificar si el art. 5.1 de la 0009-R (informar al titular) sigue vigente tras la reforma 0037-R",
+  "Confirmar número de WhatsApp del copy"
+ ],
+ "alt": [
+  "4 resoluciones de la SPDP para su estudio. Uso de IA, transferencias de datos, proveedores y brechas. Fondo de acuarela azul con el logo de Littigo.",
+  "Uso de IA con datos personales. Resolución SPDP-SPD-2026-0009-R: reglas de transparencia, gestión de riesgos y seguridad.",
+  "Datos que salen del país. Resolución SPDP-SPD-2026-0004-R: el destino debe ofrecer protección adecuada o garantías como cláusulas contractuales tipo.",
+  "Qué debe informar su proveedor de IA. Resolución SPDP-SPD-2026-0037-R: funcionamiento, límites y riesgos del sistema, para quien tiene acceso o control efectivo de los datos.",
+  "Plazos ante una brecha de seguridad. Resolución SPDP-SPD-2026-0040-R: 2 días de plazo máximo del encargado al responsable y 5 días de término para notificar a la SPDP.",
+  "En Littigo, usted decide qué procesa la IA. Captura de la lista de documentos de un caso con un interruptor por documento; el segundo documento aparece excluido de la IA.",
+  "Su firma, ordenada. Sus datos, bajo su control. Link en bio. littigo.com, contacto@littigo.com, WhatsApp +593 98 714 9410."
+ ]
+}

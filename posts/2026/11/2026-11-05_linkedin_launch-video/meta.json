@@ -2,11 +2,11 @@
  "post": "linkedin-launch-video",
  "red": "LinkedIn",
  "bufferChannelId": "6acfe216778b240e2f0d75ab",
- "estado": "programado",
+ "estado": "programado (Buffer, 1/11/2026)",
  "fechaPublicacion": "2026-11-05",
  "fechaProgramada": "2026-11-05T10:00:00-05:00",
  "modo": "customScheduled",
- "bufferPostId": null,
+ "bufferPostId": "6ae790b43f7155902f71504d",
  "fuente": "Clio, 2026 (mediana de «lockup total»: 88 días); confirmado por Pedro el 1/11/2026",
  "alt": [
   "Película de 30 segundos de Littigo: «Expediente» gigante, la promesa «Su firma, ordenada», la IA que prepara el resumen de un caso, el dato de 88 días según Clio, pantallas reales de casos, agenda, cobros, documentos e IA, y el cierre con el logo y el botón «Escríbanos»."

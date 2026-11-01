@@ -4,7 +4,7 @@ Su firma, ordenada. Sus cobros, a la vista.
 
 Hoy presentamos Littigo, la IA de la plataforma para estudios jurídicos en Ecuador: casos, agenda, cobros y documentos en un solo flujo entre el abogado y el contador. Usted pide, Littigo prepara y usted decide.
 
-Según Clio (2026), cobrar un caso tarda 88 días. Escríbanos por WhatsApp: +593 98 714 9410 o en littigo.com/es
+Según Clio (2026), cobrar un caso tarda 88 días. Escríbanos por WhatsApp: +593 98 427 5251 o en littigo.com/es
 
 Música: «Wingspan», de Blue Dot Sessions. Licencia CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/).
 

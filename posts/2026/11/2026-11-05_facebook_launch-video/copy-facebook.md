@@ -4,7 +4,7 @@ Su firma, ordenada. Sus cobros, a la vista.
 
 Conozca Littigo, la IA de la plataforma para estudios jurídicos: casos, agenda, cobros, documentos y la IA, en un solo flujo entre el abogado y el contador. Littigo prepara, usted decide.
 
-Escríbanos por WhatsApp: +593 98 714 9410
+Escríbanos por WhatsApp: +593 98 427 5251
 littigo.com/es
 
 Fuente: Clio, 2026.

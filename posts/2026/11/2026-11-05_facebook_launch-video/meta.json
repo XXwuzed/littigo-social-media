@@ -1,0 +1,30 @@
+{
+ "post": "facebook-launch-video",
+ "red": "Facebook",
+ "bufferChannelId": "6acfe9e6778b240e2f0dbfa3",
+ "estado": "programado",
+ "fechaPublicacion": "2026-11-05",
+ "fechaProgramada": "2026-11-05T10:00:00-05:00",
+ "modo": "customScheduled",
+ "bufferPostId": null,
+ "fuente": "Clio, 2026 (mediana de «lockup total»: 88 días); confirmado por Pedro el 1/11/2026",
+ "alt": [
+  "Película de 30 segundos de Littigo: «Expediente» gigante, la promesa «Su firma, ordenada», la IA que prepara el resumen de un caso, el dato de 88 días según Clio, pantallas reales de casos, agenda, cobros, documentos e IA, y el cierre con el logo y el botón «Escríbanos»."
+ ],
+ "embudo": "MOFU",
+ "formato": "video",
+ "origen": "organico",
+ "duracion_s": 30,
+ "hook": null,
+ "formulaHook": "Promesa de marca (Su firma, ordenada.) y dato con fuente (88 días, Clio)",
+ "cuerpo": null,
+ "cierre": "MF11",
+ "hipotesis": null,
+ "variante": null,
+ "metrica_principal": "conversaciones",
+ "anuncioMetaId": null,
+ "mensajePrellenado": null,
+ "idsRetroactivos": false,
+ "notaIds": "Pieza de lanzamiento oficial (5/11/2026). El cierre es MF11 («Escríbanos.»); el hook y el cuerpo son nuevos y no están en el banco. El mismo video se pauta en Meta Ads con objetivo de mensajes de WhatsApp.",
+ "musica": "«Wingspan», de Blue Dot Sessions, CC BY 3.0"
+}

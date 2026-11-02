@@ -2,9 +2,9 @@
  "post": "facebook-deje-de-mandar-escritos-por-whatsapp",
  "red": "Facebook",
  "bufferChannelId": "6acfe9e6778b240e2f0dbfa3",
- "estado": "programado (Buffer, 3/11/2026 10:00 hora de Ecuador; video _03 desde 2/11/2026)",
- "fechaPublicacion": "2026-11-03",
- "modo": "customScheduled",
+ "estado": "publicando ahora (Buffer shareNow, 2/11/2026 11:16 hora de Ecuador; antes programado para el 3/11)",
+ "fechaPublicacion": "2026-11-02",
+ "modo": "shareNow",
  "bufferPostId": "6ae81db3c60bdbcc33d7fe61",
  "embudo": "TOFU",
  "formato": "post video 9:16",
@@ -22,5 +22,5 @@
  "idsRetroactivos": false,
  "musica": null,
  "notaIds": "Cierre TF11 en una sola palabra («Síganos», Pedro 2/11/2026; antes TF05 «Envíelo»). Pieza: mkt-littigo/output/videos/tofu-viral/20261101_deje-de-mandar-escritos-por-whatsapp/ versión _03.",
- "urlPublicacion": null
+ "urlPublicacion": "https://facebook.com/1337242469480176_122109801519517439"
 }

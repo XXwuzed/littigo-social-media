@@ -2,7 +2,7 @@
  "post": "linkedin-error-al-nombrar-archivos",
  "red": "LinkedIn",
  "bufferChannelId": "6acfe216778b240e2f0d75ab",
- "estado": "enviando (Buffer, 1/11/2026); confirmar en la cola",
+ "estado": "publicado (Buffer, 1/11/2026 22:44 hora de Ecuador)",
  "fechaPublicacion": "2026-11-01",
  "modo": "shareNow",
  "bufferPostId": "6ae807237817c41d1a3f5ada",
@@ -21,5 +21,6 @@
  "mensajePrellenado": null,
  "idsRetroactivos": false,
  "musica": null,
- "notaIds": "Cierre TF02 en una sola palabra («Envíelo»). Pieza: mkt-littigo/output/videos/tofu-viral/20261101_error-al-nombrar-archivos/ versión _02."
+ "notaIds": "Cierre TF02 en una sola palabra («Envíelo»). Pieza: mkt-littigo/output/videos/tofu-viral/20261101_error-al-nombrar-archivos/ versión _02.",
+ "urlPublicacion": "https://www.linkedin.com/feed/update/urn:li:ugcPost:7522866311287193600"
 }

@@ -2,10 +2,10 @@
  "post": "facebook-error-al-nombrar-archivos",
  "red": "Facebook",
  "bufferChannelId": "6acfe9e6778b240e2f0dbfa3",
- "estado": "publicando (Buffer, shareNow, 1/11/2026)",
+ "estado": "publicado (Buffer, 1/11/2026 22:44 hora de Ecuador)",
  "fechaPublicacion": "2026-11-01",
  "modo": "shareNow",
- "bufferPostId": null,
+ "bufferPostId": "6ae807171a965d64fbe872c5",
  "embudo": "TOFU",
  "formato": "reel 9:16",
  "origen": "organico",
@@ -21,5 +21,6 @@
  "mensajePrellenado": null,
  "idsRetroactivos": false,
  "musica": null,
- "notaIds": "Cierre TF02 en una sola palabra («Envíelo»). Pieza: mkt-littigo/output/videos/tofu-viral/20261101_error-al-nombrar-archivos/ versión _02."
+ "notaIds": "Cierre TF02 en una sola palabra («Envíelo»). Pieza: mkt-littigo/output/videos/tofu-viral/20261101_error-al-nombrar-archivos/ versión _02.",
+ "urlPublicacion": "https://facebook.com/1337242469480176_122109525057517439"
 }

@@ -2,10 +2,10 @@
  "post": "instagram-error-al-nombrar-archivos",
  "red": "Instagram",
  "bufferChannelId": "6acfe2fd778b240e2f0d80a2",
- "estado": "publicando (Buffer, shareNow, 1/11/2026)",
+ "estado": "publicado (Buffer, 1/11/2026 22:44 hora de Ecuador)",
  "fechaPublicacion": "2026-11-01",
  "modo": "shareNow",
- "bufferPostId": null,
+ "bufferPostId": "6ae8070c64604db3143a89e0",
  "embudo": "TOFU",
  "formato": "reel 9:16",
  "origen": "organico",
@@ -21,5 +21,6 @@
  "mensajePrellenado": null,
  "idsRetroactivos": false,
  "musica": null,
- "notaIds": "Cierre TF02 en una sola palabra («Envíelo»). Pieza: mkt-littigo/output/videos/tofu-viral/20261101_error-al-nombrar-archivos/ versión _02."
+ "notaIds": "Cierre TF02 en una sola palabra («Envíelo»). Pieza: mkt-littigo/output/videos/tofu-viral/20261101_error-al-nombrar-archivos/ versión _02.",
+ "urlPublicacion": "https://www.instagram.com/reel/DfOXr7_jpFX/"
 }

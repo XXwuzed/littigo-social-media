@@ -1,0 +1,32 @@
+{
+ "post": "instagram-5-cosas-antes-de-cerrar-un-caso",
+ "red": "Instagram",
+ "bufferChannelId": "6acfe2fd778b240e2f0d80a2",
+ "estado": "programado",
+ "fechaPublicacion": "2026-11-02",
+ "modo": "customScheduled",
+ "dueAt": "2026-11-02T18:49:00-05:00",
+ "bufferPostId": null,
+ "pilar": "Transparencia",
+ "embudo": "TOFU",
+ "formato": "carrusel",
+ "origen": "organico",
+ "hook": "T16",
+ "cuerpo": "TC13",
+ "cierre": "TF11",
+ "hipotesis": "H26",
+ "variante": null,
+ "metrica_principal": "guardados",
+ "anuncioMetaId": null,
+ "mensajePrellenado": null,
+ "alt": [
+  "5 cosas antes de cerrar un caso. Portada con cinco círculos de colores con íconos de reloj, dólar, calendario, carpeta y sobre.",
+  "Registre cada hora trabajada. Captura de Tiempos con 12,0 horas registradas, 92 % facturables y 1.485 USD de valor estimado facturable.",
+  "Deje cada cobro con su estado. Captura de la lista de cobros con montos y estados pendiente y vencida.",
+  "Cierre audiencias y términos abiertos. Captura de la agenda con una audiencia marcada con término fatal.",
+  "Deje la versión final en el expediente. Captura de Documentos con tres escritos del caso.",
+  "Confirme el cierre con su cliente. Un círculo verde azulado con un sobre y otro azul con una marca de verificación.",
+  "Su hoja de cierre: tiempos registrados, cobros con estado, agenda sin pendientes, versión final archivada, cliente informado. Botón Síganos."
+ ],
+ "notaIds": "Pieza: mkt-littigo/output/posts/carruseles-prueba/20261102_5-cosas-antes-de-cerrar-un-caso/. Primer carrusel con el generador herramientas/carruseles."
+}

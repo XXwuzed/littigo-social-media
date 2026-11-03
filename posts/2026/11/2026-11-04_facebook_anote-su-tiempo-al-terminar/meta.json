@@ -2,11 +2,11 @@
  "post": "facebook-anote-su-tiempo-al-terminar",
  "red": "Facebook",
  "bufferChannelId": "6acfe9e6778b240e2f0dbfa3",
- "estado": "programado",
- "fechaPublicacion": "2026-11-04",
- "modo": "customScheduled",
- "dueAt": "2026-11-04T18:45:00-05:00",
- "bufferPostId": null,
+ "estado": "enviado a publicar (Buffer shareNow, 3/11/2026 17:36 hora de Ecuador)",
+ "fechaPublicacion": "2026-11-03",
+ "modo": "shareNow",
+ "dueAt": null,
+ "bufferPostId": "6aea6204f93f03bf7d9a8b52",
  "pilar": "Rentabilidad",
  "embudo": "TOFU",
  "formato": "reel 9:16",
@@ -23,5 +23,6 @@
  "mensajePrellenado": null,
  "musica": null,
  "thumbnailOffsetMs": 2070,
- "notaIds": "Pieza: mkt-littigo/output/videos/tofu-viral/20261103_anote-su-tiempo-al-terminar/. Sin Higgsfield. El video vive en la carpeta de Instagram."
+ "notaIds": "Pieza: mkt-littigo/output/videos/tofu-viral/20261103_anote-su-tiempo-al-terminar/. Sin Higgsfield. El video vive en la carpeta de Instagram.",
+ "notaFecha": "La carpeta lleva 2026-11-04 porque se iba a programar para ese día; se publicó el 3/11."
 }

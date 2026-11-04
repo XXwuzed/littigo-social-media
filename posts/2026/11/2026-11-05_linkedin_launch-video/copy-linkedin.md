@@ -1,12 +1,10 @@
-# LinkedIn: launch video (5/11/2026, 10:00 hora de Ecuador)
+# LinkedIn: launch video (5/11/2026, 08:00 hora de Ecuador)
 
 Su firma, ordenada. Sus cobros, a la vista.
 
-Hoy presentamos Littigo, la IA de la plataforma para estudios jurídicos en Ecuador: casos, agenda, cobros y documentos en un solo flujo entre el abogado y el contador. Usted pide, Littigo prepara y usted decide.
+Hoy presentamos Littigo, la IA de la plataforma para estudios jurídicos en Ecuador: casos, agenda, cobros y documentos en un solo flujo, también con su contador. Solo escriba lo que quiere crear: Littigo prepara y usted decide.
 
-Según Clio (2026), cobrar un caso tarda 88 días. Escríbanos por WhatsApp: +593 98 427 5251 o en littigo.com/es
-
-Música: «Wingspan», de Blue Dot Sessions. Licencia CC BY 3.0 (https://creativecommons.org/licenses/by/3.0/).
+Escríbanos por WhatsApp: +593 98 427 5251 o en littigo.com/es
 
 ---
-Texto alternativo: Película de 30 segundos de Littigo: «Expediente» gigante, la promesa «Su firma, ordenada», la IA que prepara el resumen de un caso, el dato de 88 días según Clio, pantallas reales de casos, agenda, cobros, documentos e IA, y el cierre con el logo y el botón «Escríbanos».
+Texto alternativo: Video de 36 segundos de Littigo: «Su estudio está en todos lados» y un lugar distinto para casos, agenda, cobros, contador y documentos; «Conozca Littigo»; la IA recibe una instrucción escrita y prepara el resumen de un caso; cuatro pantallas reales conectadas en un solo flujo; un sello «Aprobado»; «Su firma, ordenada. Sus cobros, a la vista.» y el cierre con el logo.

@@ -2,7 +2,7 @@
  "post": "instagram-launch-voz-diego",
  "red": "Instagram, Facebook y LinkedIn",
  "bufferChannelId": "6acfe2fd778b240e2f0d80a2",
- "estado": "pendiente de envío",
+ "estado": "enviado a publicar (Buffer shareNow, 8/11/2026 12:42)",
  "fechaPublicacion": "2026-11-08",
  "bufferPostId": null,
  "origen": "organico",
@@ -17,5 +17,10 @@
  "duracion_s": 44,
  "cierre": "MF11",
  "musica": "luminosa esperanzadora 129 bpm, CC0",
- "notaIds": "Versión v5 con voz Diego Neutral, cierres suavizados. Sustituye a la v4 con voz Pedro Moreno."
+ "notaIds": "Versión v5 con voz Diego Neutral, cierres suavizados. Sustituye a la v4 con voz Pedro Moreno.",
+ "bufferPostIds": {
+  "instagram": "6af0b476229bf05dafc689b9",
+  "facebook": "6af0b48151492b796e50b077",
+  "linkedin": "6af0b48c9214322f6869e36f"
+ }
 }

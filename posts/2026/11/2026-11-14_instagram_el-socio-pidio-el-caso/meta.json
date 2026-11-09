@@ -1,0 +1,23 @@
+{
+ "post": "instagram-el-socio-pidio-el-caso",
+ "red": "Instagram, Facebook y LinkedIn",
+ "bufferChannelId": "6acfe2fd778b240e2f0d80a2",
+ "estado": "programado (Buffer, 14/11/2026 12:00)",
+ "fechaPublicacion": "2026-11-14",
+ "modo": "customScheduled",
+ "fechaProgramada": "2026-11-14T12:00:00-05:00",
+ "embudo": "MOFU",
+ "pilar": "Rentabilidad",
+ "formato": "reel 9:16 43,5 s",
+ "duracion_s": 43.5,
+ "hook": "M12",
+ "cuerpo": "MC10",
+ "cierre": "MF11",
+ "metrica_principal": "mensajes",
+ "musica": "luminosa esperanzadora (Drakensson), CC0",
+ "notaIds": "Voz sin suavizar. Littigo es la plataforma; la IA es la IA de Littigo.",
+ "hipotesis": null,
+ "variante": null,
+ "anuncioMetaId": null,
+ "mensajePrellenado": null
+}

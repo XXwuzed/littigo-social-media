@@ -1,0 +1,23 @@
+{
+ "post": "instagram-3-senales",
+ "red": "Instagram",
+ "bufferChannelId": "6acfe2fd778b240e2f0d80a2",
+ "estado": "programado (Buffer, 13/11/2026 12:00)",
+ "fechaPublicacion": "2026-11-13",
+ "modo": "customScheduled",
+ "fechaProgramada": "2026-11-13T12:00:00-05:00",
+ "pilar": "Seguridad",
+ "embudo": "MOFU",
+ "formato": "carrusel de 7 videos en bucle (1080x1350)",
+ "origen": "organico",
+ "hook": "M41",
+ "cuerpo": "MC11",
+ "cierre": "MF11",
+ "hipotesis": null,
+ "variante": null,
+ "metrica_principal": "mensajes",
+ "anuncioMetaId": null,
+ "mensajePrellenado": null,
+ "musica": null,
+ "notaIds": "Pieza: mkt-littigo/output/posts/mofu-carruseles/20261109_3-senales-todo-depende-de-usted/. Sin Higgsfield. Lienzo continuo de 7 pantallas, circuito sobre fondo claro."
+}

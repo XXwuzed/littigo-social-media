@@ -19,5 +19,10 @@
  "hipotesis": null,
  "variante": null,
  "anuncioMetaId": null,
- "mensajePrellenado": null
+ "mensajePrellenado": null,
+ "bufferPostIds": {
+  "instagram": "6af2047ec1ebd32415dbc729",
+  "facebook": "6af2047fbee14f648c67f575",
+  "linkedin": "6af204813aa5c0b251b4c559"
+ }
 }

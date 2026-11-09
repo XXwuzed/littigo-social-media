@@ -20,5 +20,10 @@
  "variante": null,
  "anuncioMetaId": null,
  "mensajePrellenado": null,
- "fechaProgramada": "2026-11-10T12:00:00-05:00"
+ "fechaProgramada": "2026-11-10T12:00:00-05:00",
+ "bufferPostIds": {
+  "instagram": "6af1c3ce98ae1c26b8e53d91",
+  "facebook": "6af1c3cf98ae1c26b8e53de0",
+  "linkedin": "6af1c3d098ae1c26b8e53e4c"
+ }
 }

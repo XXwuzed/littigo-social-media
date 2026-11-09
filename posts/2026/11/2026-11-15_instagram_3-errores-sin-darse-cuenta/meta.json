@@ -15,9 +15,14 @@
  "cierre": null,
  "metrica_principal": "guardados",
  "musica": "publicitaria optimista (code_box), CC0",
- "notaIds": "Formato nuevo pedido por Pedro (9/11/2026): 3 errores, sin Littigo y sin CTA. Sin IDs del banco: hipótesis nueva. Voz sin suavizar.",
+ "notaIds": "Formato nuevo pedido por Pedro (9/11/2026): 3 errores, sin Littigo y sin CTA. Sin IDs del banco: hipótesis nueva. Voz sin suavizar. Facebook usa una versión de 89,6 s (límite de 90 s de los reels de Facebook); Instagram y LinkedIn la de 91,9 s.",
  "hipotesis": null,
  "variante": null,
  "anuncioMetaId": null,
- "mensajePrellenado": null
+ "mensajePrellenado": null,
+ "bufferPostIds": {
+  "instagram": "6af21ee5eb73f8e77f54505b",
+  "facebook": "6af21f8aa16d1f1c1e96ee0d",
+  "linkedin": "6af21ee829d3f56e691e2778"
+ }
 }

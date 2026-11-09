@@ -1,0 +1,23 @@
+{
+ "post": "instagram-de-reconstruir-horas-a-registrarlas",
+ "red": "Instagram, Facebook y LinkedIn",
+ "bufferChannelId": "6acfe2fd778b240e2f0d80a2",
+ "estado": "programado (Buffer, 10/11/2026 21:00)",
+ "fechaPublicacion": "2026-11-10",
+ "modo": "customScheduled",
+ "fechaProgramada": "2026-11-10T21:00:00-05:00",
+ "embudo": "MOFU",
+ "pilar": "Rentabilidad",
+ "formato": "reel 9:16 52,6 s",
+ "duracion_s": 52.6,
+ "hook": null,
+ "cuerpo": "MC10",
+ "cierre": "MF11",
+ "metrica_principal": "mensajes",
+ "musica": "cinemática fluida «Wingspan» (Blue Dot Sessions), CC BY",
+ "notaIds": "Plantilla «Cómo pasar de… a…» pedida por Pedro; hook propio (sin ID del banco). Voz sin suavizar. Programado cada 3 h (regla de Pedro).",
+ "hipotesis": null,
+ "variante": null,
+ "anuncioMetaId": null,
+ "mensajePrellenado": null
+}

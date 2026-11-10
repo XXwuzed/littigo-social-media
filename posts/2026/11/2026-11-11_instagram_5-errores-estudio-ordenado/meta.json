@@ -1,0 +1,23 @@
+{
+ "post": "instagram-5-errores-estudio-ordenado",
+ "red": "Instagram y LinkedIn",
+ "estado": "programado (Buffer, 2026-11-11 18:00)",
+ "fechaPublicacion": "2026-11-11",
+ "modo": "customScheduled",
+ "fechaProgramada": "2026-11-11T18:00:00-05:00",
+ "embudo": "TOFU",
+ "pilar": "Rentabilidad",
+ "formato": "carrusel de 7 videos en bucle (1080x1350)",
+ "origen": "organico",
+ "hook": "propio",
+ "cuerpo": "lista de 5",
+ "cierre": null,
+ "metrica_principal": "guardados",
+ "musica": null,
+ "hipotesis": null,
+ "variante": null,
+ "anuncioMetaId": null,
+ "mensajePrellenado": null,
+ "notaIds": "Programado el 9/11/2026 a cada 3 h (límite 21:00). Pieza: mkt-littigo/output/posts/tofu-carruseles/20261109_5-errores-estudio-ordenado/.",
+ "bufferPostIds": {}
+}

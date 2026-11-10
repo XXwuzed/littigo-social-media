@@ -1,0 +1,23 @@
+{
+ "post": "instagram-error-cobro-al-final",
+ "red": "Instagram, Facebook y LinkedIn",
+ "estado": "programado (Buffer, 2026-11-11 21:00)",
+ "fechaPublicacion": "2026-11-11",
+ "modo": "customScheduled",
+ "fechaProgramada": "2026-11-11T21:00:00-05:00",
+ "embudo": "TOFU",
+ "pilar": "Transparencia",
+ "formato": "reel 9:16 50,5 s",
+ "origen": "organico",
+ "hook": "propio",
+ "cuerpo": "MC02",
+ "cierre": null,
+ "metrica_principal": "alcance a no seguidores y retención",
+ "musica": "Wingspan (Blue Dot Sessions), CC BY",
+ "hipotesis": null,
+ "variante": null,
+ "anuncioMetaId": null,
+ "mensajePrellenado": null,
+ "notaIds": "Programado el 9/11/2026 a cada 3 h (límite 21:00). Pieza: mkt-littigo/output/videos/tofu-educativos/20261109_error-cobro-al-final/.",
+ "bufferPostIds": {}
+}

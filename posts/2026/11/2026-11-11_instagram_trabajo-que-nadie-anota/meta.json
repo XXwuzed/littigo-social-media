@@ -1,0 +1,23 @@
+{
+ "post": "instagram-trabajo-que-nadie-anota",
+ "red": "Instagram, Facebook y LinkedIn",
+ "estado": "programado (Buffer, 2026-11-11 09:00)",
+ "fechaPublicacion": "2026-11-11",
+ "modo": "customScheduled",
+ "fechaProgramada": "2026-11-11T09:00:00-05:00",
+ "embudo": "TOFU",
+ "pilar": "Rentabilidad",
+ "formato": "reel 9:16 47,9 s",
+ "origen": "organico",
+ "hook": "M08 adaptado",
+ "cuerpo": "propio",
+ "cierre": "TF11",
+ "metrica_principal": "alcance a no seguidores y retención",
+ "musica": "luminosa esperanzadora (Drakensson), CC0",
+ "hipotesis": null,
+ "variante": null,
+ "anuncioMetaId": null,
+ "mensajePrellenado": null,
+ "notaIds": "Programado el 9/11/2026 a cada 3 h (límite 21:00). Pieza: mkt-littigo/output/videos/tofu-educativos/20261109_trabajo-que-nadie-anota/.",
+ "bufferPostIds": {}
+}

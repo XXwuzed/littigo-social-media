@@ -19,5 +19,9 @@
  "anuncioMetaId": null,
  "mensajePrellenado": null,
  "notaIds": "Programado el 9/11/2026 a cada 3 h (límite 21:00). Pieza: mkt-littigo/output/videos/mofu-viral/20261109_tres-preguntas-a-su-sistema/.",
- "bufferPostIds": {}
+ "bufferPostIds": {
+  "instagram": "6af26d2ce261c09acc8f7230",
+  "facebook": "6af26d2ed35dff5701cdb384",
+  "linkedin": "6af26d2fd35dff5701cdb3e9"
+ }
 }

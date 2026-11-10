@@ -19,5 +19,9 @@
  "anuncioMetaId": null,
  "mensajePrellenado": null,
  "notaIds": "Programado el 9/11/2026 a cada 3 h (límite 21:00). Pieza: mkt-littigo/output/videos/tofu-educativos/20261109_trabajo-que-nadie-anota/.",
- "bufferPostIds": {}
+ "bufferPostIds": {
+  "instagram": "6af26d09e261c09acc8f67e8",
+  "facebook": "6af26d0be261c09acc8f6854",
+  "linkedin": "6af26d0dd35dff5701cdaaa2"
+ }
 }

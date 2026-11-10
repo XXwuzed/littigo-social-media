@@ -1,7 +1,7 @@
 {
  "post": "instagram-error-cobro-al-final",
  "red": "Instagram, Facebook y LinkedIn",
- "estado": "programado (Buffer, 2026-11-11 21:00)",
+ "estado": "parcial: Facebook programado (11/11 21:00); Instagram y LinkedIn pendientes por el límite de 10 publicaciones programadas de Buffer",
  "fechaPublicacion": "2026-11-11",
  "modo": "customScheduled",
  "fechaProgramada": "2026-11-11T21:00:00-05:00",
@@ -19,5 +19,7 @@
  "anuncioMetaId": null,
  "mensajePrellenado": null,
  "notaIds": "Programado el 9/11/2026 a cada 3 h (límite 21:00). Pieza: mkt-littigo/output/videos/tofu-educativos/20261109_error-cobro-al-final/.",
- "bufferPostIds": {}
+ "bufferPostIds": {
+  "facebook": "6af26d4c223aa16048dd8dfc"
+ }
 }

@@ -1,8 +1,8 @@
 {
  "post": "instagram-como-saber-su-problema",
  "red": "Instagram y LinkedIn",
- "estado": "pendiente de programar (12/11 09:00): límite de 10 publicaciones programadas de Buffer en Instagram y LinkedIn",
- "fechaPublicacion": "2026-11-12",
+ "estado": "publicado (Buffer shareNow, 9/11/2026 ~20:12 Ecuador; Instagram y LinkedIn)",
+ "fechaPublicacion": "2026-11-09",
  "modo": "customScheduled",
  "fechaProgramada": "2026-11-12T09:00:00-05:00",
  "embudo": "TOFU/MOFU",
@@ -19,5 +19,8 @@
  "anuncioMetaId": null,
  "mensajePrellenado": null,
  "notaIds": "Programado el 9/11/2026 a cada 3 h (límite 21:00). Pieza: mkt-littigo/output/posts/mofu-carruseles/20261109_como-saber-su-problema/.",
- "bufferPostIds": {}
+ "bufferPostIds": {
+  "instagram": "6af26f62e261c09acc901937",
+  "linkedin": "6af26f6f223aa16048de380b"
+ }
 }

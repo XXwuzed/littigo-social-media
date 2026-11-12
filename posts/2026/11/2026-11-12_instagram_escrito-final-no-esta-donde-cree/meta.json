@@ -1,7 +1,7 @@
 {
  "post": "instagram-escrito-final-no-esta-donde-cree",
  "red": "Instagram, Facebook y LinkedIn",
- "estado": "pendiente de publicar",
+ "estado": "publicado (Buffer shareNow, 12/11/2026 ~18:38 Ecuador; Instagram, Facebook y LinkedIn)",
  "fechaPublicacion": "2026-11-12",
  "modo": "shareNow",
  "embudo": "TOFU",
@@ -20,5 +20,9 @@
  "anuncioMetaId": null,
  "mensajePrellenado": null,
  "notaIds": "Pedro (12/11/2026): publicar uno ahora y programar el otro. Hook N03/N09 son IDs provisionales del plan de alcance (analytics/plan-alcance-2026-11.md). Música house a pedido de Pedro; SFX reales aprobados. Pieza: mkt-littigo/output/videos/tofu-educativos/20261112_escrito-final-no-esta-donde-cree/.",
- "bufferPostIds": {}
+ "bufferPostIds": {
+  "instagram": "6af64dc9c1a0010a5be73c63",
+  "facebook": "6af64dd4fb90ccefdd08227e",
+  "linkedin": "6af64ddfe1d8eff6108af8c9"
+ }
 }

@@ -1,7 +1,7 @@
 {
  "post": "instagram-audiencia-no-esta-en-su-agenda",
  "red": "Instagram, Facebook y LinkedIn",
- "estado": "pendiente de publicar",
+ "estado": "programado (Buffer, 12/11/2026 21:00 Ecuador; Instagram, Facebook y LinkedIn)",
  "fechaPublicacion": "2026-11-12",
  "modo": "customScheduled",
  "embudo": "TOFU",
@@ -20,5 +20,10 @@
  "anuncioMetaId": null,
  "mensajePrellenado": null,
  "notaIds": "Pedro (12/11/2026): publicar uno ahora y programar el otro. Hook N03/N09 son IDs provisionales del plan de alcance (analytics/plan-alcance-2026-11.md). Música house a pedido de Pedro; SFX reales aprobados. Pieza: mkt-littigo/output/videos/tofu-educativos/20261112_audiencia-no-esta-en-su-agenda/.",
- "bufferPostIds": {}
+ "bufferPostIds": {
+  "instagram": "6af64debda25c4db3e822664",
+  "facebook": "6af64decba218f32636777af",
+  "linkedin": "6af64deec1a0010a5be74916"
+ },
+ "fechaProgramada": "2026-11-12T21:00:00-05:00"
 }

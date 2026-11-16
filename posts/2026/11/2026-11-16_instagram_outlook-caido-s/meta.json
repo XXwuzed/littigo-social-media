@@ -1,0 +1,15 @@
+{
+ "post": "instagram-outlook-caido-s",
+ "red": "Instagram, Facebook y LinkedIn",
+ "estado": "programado (Buffer, 16/11/2026 11:25 Ecuador)",
+ "fechaPublicacion": "2026-11-16",
+ "modo": "customScheduled",
+ "embudo": "BOFU",
+ "pilar": "Transparencia",
+ "formato": "reel 9:16",
+ "origen": "organico",
+ "cierre": "BF11",
+ "codigoPieza": "LIT-20261112-3-S",
+ "bufferPostIds": {"instagram": "6afb2c050c8c027c5735fb64", "facebook": "6afb2c07e944468195966901", "linkedin": "6afb2c080c8c027c573604fc"},
+ "fechaProgramada": "2026-11-16T11:25:00-05:00"
+}

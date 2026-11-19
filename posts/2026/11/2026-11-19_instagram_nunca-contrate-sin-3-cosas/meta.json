@@ -8,5 +8,6 @@
  "formato": "reel 9:16",
  "origen": "organico",
  "cierre": "BF11",
- "portada_ms": 5900
+ "portada_ms": 5900,
+ "bufferPostIds": {"instagram": "6aff048fabf4ba608b79cae0", "facebook": "6aff049b443a2a9f2fc6b212", "linkedin": "6aff04a6abf4ba608b79d3cb"}
 }

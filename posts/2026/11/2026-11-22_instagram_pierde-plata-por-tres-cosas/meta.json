@@ -1,7 +1,7 @@
 {
  "post": "instagram-pierde-plata-por-tres-cosas",
  "red": "Instagram",
- "estado": "listo (pendiente de programar en Buffer)",
+ "estado": "programado (Buffer, 22/11/2026 09:00 Ecuador)",
  "fechaPublicacion": "2026-11-22",
  "modo": "customScheduled",
  "fechaProgramada": "2026-11-22T09:00:00-05:00",
@@ -17,5 +17,7 @@
  "portada_ms": 1500,
  "musica": "prettyjohn1-chill-chill-music (AUD-182 en mkt-littigo); licencia por confirmar",
  "nota": "Pieza TOFU del cronopost (fila 1, originalmente lunes 23/11 12:00); se adelanta al 22/11 09:00 por indicación de Pedro.",
- "bufferPostIds": {}
+ "bufferPostIds": {
+  "instagram": "6b012c81d9cbb430a120664b"
+ }
 }

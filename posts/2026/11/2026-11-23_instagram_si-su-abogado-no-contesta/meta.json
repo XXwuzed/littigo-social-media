@@ -1,7 +1,7 @@
 {
  "post": "instagram-si-su-abogado-no-contesta",
  "red": "Instagram y Facebook",
- "estado": "enviado a publicar (Buffer, 23/11/2026, ahora)",
+ "estado": "publicado (23/11/2026 ~15:11 Ecuador, Instagram y Facebook por Buffer)",
  "fechaPublicacion": "2026-11-23",
  "modo": "shareNow",
  "embudo": "TOFU",
@@ -17,5 +17,12 @@
  "metrica_principal": "guardados",
  "portada_ms": 2000,
  "musica": "prettyjohn1-chill (AUD-182 en mkt-littigo); licencia por confirmar",
- "bufferPostIds": {}
+ "bufferPostIds": {
+  "instagram": "6b049db3c890e50e66abf0ef",
+  "facebook": "6b049dc0546af97ff75438f0"
+ },
+ "permalink": {
+  "instagram": "https://www.instagram.com/reel/DgGNQNSj8zb/",
+  "facebook": "https://facebook.com/1337242469480176_122117988081517439"
+ }
 }

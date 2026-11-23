@@ -1,7 +1,7 @@
 {
  "post": "instagram-3-senales-abogado-cuida-su-caso",
  "red": "Instagram y Facebook",
- "estado": "enviado a publicar (Buffer, 23/11/2026, ahora)",
+ "estado": "publicado (23/11/2026 ~14:37 Ecuador, Instagram y Facebook por Buffer)",
  "fechaPublicacion": "2026-11-23",
  "modo": "shareNow",
  "embudo": "TOFU",
@@ -17,5 +17,12 @@
  "metrica_principal": "envios",
  "portada_ms": 3000,
  "musica": "sub_clair-chill (AUD-183 en mkt-littigo); licencia por confirmar",
- "bufferPostIds": {}
+ "bufferPostIds": {
+  "instagram": "6b0495c983d02a16338bdcc3",
+  "facebook": "6b0495fb6dffe25404dbd619"
+ },
+ "permalink": {
+  "instagram": "https://www.instagram.com/reel/DgGJaNgjDTQ/",
+  "facebook": "https://facebook.com/1337242469480176_122117981775517439"
+ }
 }

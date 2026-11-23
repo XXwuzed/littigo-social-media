@@ -8,5 +8,10 @@
  "pilar": "Transparencia",
  "formato": "video 16:9 de presentación, 34,6 s, español",
  "origen": "organico",
- "portada_ms": 2300
+ "portada_ms": 2300,
+ "bufferPostIds": {
+  "instagram": "6b04c1da18db0405bdada10f",
+  "facebook": "6b04c1e907fee37ee60a3d6a",
+  "linkedin": "6b04c1f118db0405bdada8ba"
+ }
 }
